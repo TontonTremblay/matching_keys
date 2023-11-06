@@ -1,0 +1,5 @@
+nvdiffrast@git+https://github.com/NVlabs/nvdiffrast.git
+torch
+pyrr 
+trimesh
+python-opencv
